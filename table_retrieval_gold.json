@@ -1,0 +1,18 @@
+[
+    {
+		"question_id": 1,
+        "document": "10.1890-ES11-00118.1.mmd",
+        "question": "What was the species richness value post-Hurricane Hugo in 1990?",
+        "question_type": "table",
+        "answer": "2.42 ± 0.14",
+        "pred": "2.42"
+    },
+    {
+		"question_id": 2,
+        "document": "10.1890-ES11-00118.1.mmd",
+        "question": "For the vine _Philodendron scandens, what is the change in cover from Post-Hugo (1990) to Final (2010) mean cover?",
+        "question_type": "table",
+        "answer": "Increased from 1.07 ± 0.30 to 2.77 ± 0.70",
+        "pred": "1.07 to 2.77"
+    }
+]

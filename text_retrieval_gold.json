@@ -1,0 +1,16 @@
+[
+    {
+		"question_id": 1,
+        "document": "2013 - Erik Kiviat - Risks to biodiversity from hydraulic fracturing for natural gas in the Marcellus and Utica shales.mmd",
+        "question": "Help me find the liquid (referring to different types of fracturing fluid, water-based fracturing fluid or liquid carbon dioxide fracturing, etc.).",
+        "question_type": "text",
+        "answer": "This fluid is a mixture of water, chemicals, and sand. The water and chemicals constitute about 0.5% of the fracturing fluid, and more than 600 synthetic chemicals are used in the process. These chemicals include methanol, napthalene, xylene, acetic acid, ammonia, and #2 fuel oil. The purpose of the fracturing fluid is to open and prop spaces in the shale to allow gas to flow into the well."
+    },
+    {
+		"question_id": 2,
+        "document": "2013 - Zhen-Dong Cui - Resistance of caprock to hydraulic fracturing due to CO2 injection into sand lens reservoirs.mmd",
+        "question": "Extract pressure value from the paper",
+        "question_type": "text",
+        "answer": "less than 32.12MPa"
+    }
+]
